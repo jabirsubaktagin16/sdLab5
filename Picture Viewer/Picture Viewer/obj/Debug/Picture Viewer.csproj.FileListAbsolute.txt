@@ -1,0 +1,10 @@
+D:\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+D:\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+D:\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+D:\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
