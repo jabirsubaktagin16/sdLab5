@@ -1,0 +1,10 @@
+D:\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe.config
+D:\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe
+D:\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.pdb
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csprojAssemblyReference.cache
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.Form1.resources
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.Properties.Resources.resources
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.GenerateResource.cache
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.CoreCompileInputs.cache
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.exe
+D:\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.pdb
